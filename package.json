@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "vanillajs": "^1.0.1"
+  },
+  "optionalDependencies": {
+    "type": "module"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.3"
+  }
+}
